@@ -19,3 +19,4 @@
 - Cart JS
 - Remove and add new item with stock number
 - Add quantity 
+- Fix API latency

@@ -35,7 +35,7 @@ async function getHomeProducts(category = "furniture") {
                 homeProductsElement.innerHTML = ""
             }
             if (homeProductsElement.children.length === 0) {
-                products.forEach((product) => {
+                products.map((product) => {
                     const {description, title, thumbnail, price, stock, rating, brand, images, id} = product;
 
                     const imagesToHTML = images.map((img, index) => `
