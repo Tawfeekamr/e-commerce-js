@@ -11,6 +11,7 @@
 - Please fix the CSS for card 
 - Fix Add to cart to be on Hover only on Desktop
 - Fix height and length for description and title
+- Fix selecting category
 
 #### Task 03 [JS]
 
